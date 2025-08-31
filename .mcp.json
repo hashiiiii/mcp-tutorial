@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "dotnet",
+      "args": ["run", "--project", "/Users/hashiiiii/workspace/weather", "--no-build"]
+    }
+  }
+}
